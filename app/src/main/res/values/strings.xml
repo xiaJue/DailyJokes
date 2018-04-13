@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DayXiaoHua</string>
+    <string name="call_out">很抱歉，今日应用使用总数超过接口的可用总数。明天再来吧</string>
+    <string name="load_error">加载数据失败...</string>
+    <string name="xh">笑话</string>
+    <string name="qt">趣图</string>
+</resources>

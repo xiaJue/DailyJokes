@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_xh"
+        android:icon="@mipmap/xh"
+        android:title="笑话"/>
+    <item
+        android:id="@+id/item_qt"
+        android:icon="@mipmap/qt"
+        android:title="趣图"/>
+    <item
+        android:id="@+id/item_more"
+        android:icon="@mipmap/more"
+        android:title="更多"/>
+
+</menu>
